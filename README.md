@@ -20,7 +20,7 @@ Soy un apasionado del desarrollo de software con experiencia en **Java, Spring B
 ### **Bases de Datos**
 - MySQL, PostgreSQL
 - Amazon RDS (AWS)
-- -MongoDB
+- MongoDB
 
 ### **Despliegue y DevOps**
 - AWS (EC2, S3, RDS)
