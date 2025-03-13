@@ -40,7 +40,7 @@
 
 ## 📫 Conéctate conmigo  
 
-🔗 **LinkedIn:**   
+🔗 **LinkedIn:** www.linkedin.com/in/julio-herrera-seara
 
 🚀 **Siempre explorando nuevas tecnologías y construyendo soluciones innovadoras.**  
 📌 ¡Gracias por visitar mi perfil!  
