@@ -1,41 +1,46 @@
-# 👋 ¡Hola! Soy Julio Herrera Seara
+# 🚀 Desarrollador Full-Stack | Spring Boot 3 | Angular 17 | React | Microservicios | Kafka | AWS  
 
-## 🚀 Desarrollador Full-Stack | Spring Boot 3 | Angular 17 | React | AWS
+¡Hola! 👋 Soy un **desarrollador full-stack** apasionado por la creación de **aplicaciones web escalables y seguras**. Trabajo con **Spring Boot 3, Spring Cloud, Angular 17 y React**, aplicando arquitecturas modernas con **microservicios, Kafka y despliegue en AWS**.  
 
-Soy un apasionado del desarrollo de software con experiencia en **Java, Spring Boot 3, Spring Framework 6 y tecnologías frontend como Angular 17 y React**. Me especializo en la creación de aplicaciones web escalables y seguras.
+---
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ Tecnologías y Habilidades  
 
-### **Backend**
-- Spring Boot 3, Spring MVC, Spring Data JPA, Hibernate
-- API RESTful, Seguridad con JWT, Validaciones
-- WebSockets para aplicaciones en tiempo real
-- Paginación, Interceptores HTTP, SockJS, StompJS
+### 🔹 Backend  
+- **Spring Boot 3, Spring MVC**  
+- **Spring Data JPA, Hibernate**  
+- **API RESTful, Seguridad con OAuth2 y JWT**  
+- **WebSockets, SockJS, StompJS** para aplicaciones en tiempo real  
+- **Paginación, Validaciones y Manejo de Errores**  
 
-### **Frontend**
-- Angular 17: TypeScript, RXJS, Componentes, Hooks, Directivas, Redux
-- React: Estados, Hooks, Redux, API Fetch, Styled Components
-- Diseño Responsivo y Mejores Prácticas en Frontend
+### 🔹 Arquitectura de Microservicios  
+- **Spring Cloud Eureka & Discovery** para registro y escalabilidad  
+- **Spring Cloud Gateway** como API Gateway  
+- **Balanceo de carga con Spring Cloud LoadBalancer**  
+- **Apache Kafka** para mensajería distribuida entre microservicios  
+- **Resilience4J** para tolerancia a fallos y latencia  
+- **Spring Cloud Config Server** para configuración centralizada  
+- **Trazabilidad distribuida** con Micrometer Tracing y Zipkin  
+- **Docker & Docker Networks** para despliegue en contenedores  
 
-### **Bases de Datos**
-- MySQL, PostgreSQL
-- Amazon RDS (AWS)
-- MongoDB
+### 🔹 Frontend  
+- **Angular 17:** TypeScript, RxJS, Componentes, Hooks, Directivas, Redux  
+- **React:** Estados, Hooks, Redux, API Fetch, Styled Components  
+- **Diseño Responsivo y Mejores Prácticas en UI/UX**  
 
-### **Despliegue y DevOps**
-- AWS (EC2, S3, RDS)
+### 🔹 Bases de Datos  
+- **MySQL, PostgreSQL**  
+- **Amazon RDS (AWS)**  
+- **MongoDB**  
 
-## 💡 Proyectos Destacados
+### 🔹 Despliegue y DevOps  
+- **AWS (EC2, S3, RDS)**  
+- **Docker & Contenedores**  
+---
 
-- **CRUD Completo:** Aplicación con Angular 17 + Spring Boot 3 + JPA + Seguridad JWT
-- **Aplicación de Chat en Tiempo Real:** Angular + Spring Boot + WebSockets
-- **Carrito de Compras:** Angular 17 + Spring Boot 3 + Hibernate/JPA
-- **Integración Frontend-Backend:** React/Angular con Spring Boot
-- **Despliegue en AWS:** EC2, S3, RDS
+## 📫 Conéctate conmigo  
 
-## 📫 Conéctate conmigo
+🔗 **LinkedIn:**   
 
-📌 [LinkedIn](https://www.linkedin.com/in/julio-herrera-seara-164872184)  
-📌 [GitHub](https://github.com/JulioHerreraSe)
-
-¡Gracias por visitar mi perfil! 🚀
+🚀 **Siempre explorando nuevas tecnologías y construyendo soluciones innovadoras.**  
+📌 ¡Gracias por visitar mi perfil!  
